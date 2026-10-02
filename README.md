@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
@@ -24,6 +23,6 @@
 ## ⚡ GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielpndamaral&show_icons=true&theme=dark&rank_icon=github&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielpndamaral&layout=compact&langs_count=168&theme=dark" alt="Top Langs"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielpnamaral&show_icons=true&theme=dark&rank_icon=github&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielpnamaral&layout=compact&langs_count=168&theme=dark" alt="Top Langs"/>
 </p>
